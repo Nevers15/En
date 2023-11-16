@@ -1,4 +1,4 @@
-# Портфолио Аналитика Данных
+# Data Analyst Portfolio
 ---
 
 Привет! Меня зовут Григорьев Семен, я Data Scientist и Data Analyst.
