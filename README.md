@@ -75,7 +75,7 @@ This project showcases skills in Python, Pandas, and basic visualizations.
 
 ---
 
-### [Analysis of Customer Churn Data for Amazon Service](https://github.com/Nevers15/Amazon_Transaction) 
+### [Analysis of Customer Churn Data for Amazon Service](https://github.com/Nevers15/Amazon_Transaction_en) 
 
 This project is aimed at analyzing a dataset without accompanying information, identifying the customer and their pain points in the business. The project demonstrates skills in data analysis as well as knowledge of SQL.
 
