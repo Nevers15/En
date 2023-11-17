@@ -27,7 +27,7 @@ A fantastic practical task from the book "Data Science in Action" by Leonard Ape
 
 ---
 
-### [Analysis of Cancer Cell Data](https://github.com/Nevers15/Cancer_Classification) 
+### [Analysis of Cancer Cell Data](https://github.com/Nevers15/Cancer_Classification_en) 
 
 This is my graduation project from the Netology course, for which i received an excellent grade. The project encompasses all the steps of processing, analysis, and selection of an effective model for the classification of cancer cell data.
 
