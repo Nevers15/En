@@ -87,7 +87,7 @@ This project is aimed at analyzing a dataset without accompanying information, i
 
 ---
 
-### [Online Cinema Customer Data Analysis](https://github.com/Nevers15/Amazon_Transaction_en) 
+### [Online Cinema Customer Data Analysis](https://github.com/Nevers15/Big_Data_Analysis_en) 
 
 A project involving the construction of a linear regression model to predict customer ratings for an online cinema. The project demonstrates my skills in using the following tools: Excel, Pandas, Spark, SQL.
 
