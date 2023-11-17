@@ -51,7 +51,7 @@ This is my graduation project from the Netology course, for which i received an 
 
 ---
 
-### [Saber Interactive Test Assignment](https://github.com/Nevers15/SaberInteractiveTest) 
+### [Saber Interactive Test Assignment](https://github.com/Nevers15/SaberInteractiveTest_En) 
 
 Saber Interactive is one of the leading game studios in the world. I had the opportunity to complete a test assignment for this company. The assignment involved writing two SQL queries and developing an interactive web application in Python. I successfully accomplished the given tasks.
 
