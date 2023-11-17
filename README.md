@@ -15,7 +15,7 @@ This repository contains projects i have completed, demonstrating my competencie
 ### My Data Science / Data Analysis Projects
 ---
 
-### [Analysis of the Significance of Transitions through Online Advertisements](https://github.com/Nevers15/p-value) 
+### [Analysis of the Significance of Transitions through Online Advertisements](https://github.com/Nevers15/p-value-en) 
 
 A fantastic practical task from the book "Data Science in Action" by Leonard Apeltsin. In this solution, i identified the customer's needs and problems, working through them by approaching the problem mathematically.
 
