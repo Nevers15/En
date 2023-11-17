@@ -39,7 +39,7 @@ This is my graduation project from the Netology course, for which i received an 
 
 ---
 
-### ["Ulybka Radugi" Test Assignment](https://github.com/Nevers15/UlibkaRadugiTZ) 
+### ["Ulybka Radugi" Test Assignment](https://github.com/Nevers15/UlibkaRadugiTz_en) 
 
 "Ulybka Radugi" is a large federal network of stores for personal and home care. The assignment consisted of three parts. The first part involved writing five SQL queries. The second part was about evaluating the results of an A/B test. The third task focused on cleaning the dataset from outliers. I successfully completed the assigned tasks, although not on the first attempt.
 
