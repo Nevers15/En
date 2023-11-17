@@ -7,12 +7,24 @@ I transitioned to data analytics from the field of logistics, so I underwent pro
 
 This repository contains projects i have completed, demonstrating my competencies in the field of Data Science and Data Analysis. Currently, these are primarily final projects completed independently during the Netology course and verified by experts. Additionally, there are test assignments from various companies and tasks that i was able to solve as i explored the field of Data Science. In the future, i plan to actively expand my portfolio with personal projects.
 
-*Total number of projects in the repository:* **7**
+*Total number of projects in the repository:* **8**
 
 ## Repository Structure
 ---
 
 ### My Data Science / Data Analysis Projects
+---
+
+### [Classifying Violations in Labor Protection and Industrial Safety](https://github.com/Nevers15/TOAZ_en) 
+
+I present to you my work project created within the framework of internal audit and control in the field of Occupational Health and Industrial Safety. As part of the project, a model for classifying violations and failures of various equipment or structures at the enterprise was developed. The work received high praise and was subsequently implemented into the classification practices by the Occupational Health and Industrial Safety Automation Department.
+
+**Tools:** Python, Pandas, SpaCy, Sklearn
+
+**Industry:** Audit and Internal Control.
+
+**Field of Expertise:** Data Science.
+
 ---
 
 ### [Analysis of the Significance of Transitions through Online Advertisements](https://github.com/Nevers15/p-value-en) 
