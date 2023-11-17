@@ -105,6 +105,8 @@ A project involving the construction of a linear regression model to predict cus
 
 email: **funjunbauz@gmail.com**
 
+Linkedin: **https://clck.ru/36eaVQ**
+
 Telegram: **@JahariMedina**
 
 ---
