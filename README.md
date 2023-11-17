@@ -63,7 +63,7 @@ Saber Interactive is one of the leading game studios in the world. I had the opp
 
 ---
 
-### [Analysis of Company Employee Data](https://github.com/Nevers15/Pandas_Finals) 
+### [Analysis of Company Employee Data](https://github.com/Nevers15/Pandas_Finals_en) 
 
 This project showcases skills in Python, Pandas, and basic visualizations.
 
