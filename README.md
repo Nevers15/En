@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Scientist / Data Analyst Portfolio
 ---
 
 Hello! My name is Simon Gregory, and i am a Data Scientist and Data Analyst.
