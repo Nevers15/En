@@ -97,7 +97,7 @@ A project involving the construction of a linear regression model to predict cus
 
 **Field of Expertise:** Data Science.
 ##
-### [My Certificates and Credentials](https://github.com/Nevers15/Certificates)
+### [My Certificates and Credentials](https://github.com/Nevers15/Certificates_en/tree/main)
 
 ##
 
